@@ -1,7 +1,7 @@
 
 ```
-title: SERVICES
-layout: page
+title: services
+layout: sticky_footer
 tags: ['services','page']
 pageOrder: 1
 ```

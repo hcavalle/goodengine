@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	<!-- Meta -->
+	<meta charset="utf-8" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+	<!-- Use the .htaccess and remove these lines to avoid edge case issues.
+		 More info: h5bp.com/i/378 -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+	<!-- Our site title and description -->
+	<title><%= @getPreparedTitle() %></title>
+	<meta name="description" content="<%= @getPreparedDescription() %>" />
+	<meta name="keywords" content="<%= @getPreparedKeywords() %>" />
+	<meta name="author" content="<%= @site.author or '' %>" />
+
+	<!-- Output DocPad produced meta elements -->
+	<%- @getBlock('meta').toHTML() %>
+
+	<!-- Mobile viewport optimized: h5bp.com/viewport -->
+	<meta name="viewport" content="width=device-width" />
+
+	<!-- Icons -->
+		<link rel="shortcut icon" href="images/icons/favicon.ico">
+		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/icons/apple-touch-icon-144-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/icons/apple-touch-icon-114-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/icons/apple-touch-icon-72-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" href="images/icons/apple-touch-icon-57-precomposed.png">
+
+	<!-- Shims: IE6-8 support of HTML5 elements -->
+	<!--[if lt IE 9]>
+		<script async src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Styles -->
+	<%- @getBlock('styles').add(@site.styles).toHTML() %>
+  </head>
+
+  <body>
+
+    <!-- Begin page content -->
+    <div class="container">
+      <div class="page-header">
+        <h1><a href='/'>Good Engine</a> : <span class='text-muted'><%= if @document.title == 'Home' then '' else @document.title %></span></h1>
+      </div>
+      <!-- Content -->
+      <div class="container">
+        <!-- Content -->
+        <section id="content" class="content">
+          <%- @content %>
+        </section>
+      </div>
+    </div>
+
+    <footer class="footer">
+      <div class="container">
+        <p class="pull-left text-muted">&copy; Good Engine </p>
+        <p class="pull-right text-muted">
+        <a href='www.github.com/hcavalle'>github</a> <a href='/pages/services'>services</a> <a href='/pages/team'>team</a> 
+        </p>
+      </div>
+    </footer>
+    <%- @getBlock("scripts").toHTML() %>
+  </body>
+</html>

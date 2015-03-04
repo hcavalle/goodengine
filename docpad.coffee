@@ -12,7 +12,7 @@ docpadConfig = {
 		# Specify some site properties
 		site:
 			# The production url of our website
-			url: "http://website.com"
+			url: "http://goodengine.co"
 
 			# Here are some old site urls that you would like to redirect from
 			oldUrls: [
@@ -21,7 +21,7 @@ docpadConfig = {
 			]
 
 			# The default title of our website
-			title: "Your Website"
+			title: "Good Engine"
 
 			# The website description (for SEO)
 			description: """
@@ -34,10 +34,10 @@ docpadConfig = {
 				"""
 
 			# The website author's name
-			author: "Your Name"
+			author: "hcavalle"
 
 			# The website author's email
-			email: "your@email.com"
+			email: "harrison@cavallero.me"
 
 			# Styles
 			styles: [
@@ -139,3 +139,4 @@ docpadConfig = {
 
 # Export our DocPad Configuration
 module.exports = docpadConfig
+watchOptions: preferredMethods: ['watchFile','watch']

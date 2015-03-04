@@ -1,6 +1,6 @@
 ```
-title: TEAM
-layout: page
+title: team
+layout: sticky_footer
 tags: ['team','page']
 pageOrder: 2
 ```
