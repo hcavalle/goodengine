@@ -1,5 +1,4 @@
 @import 'nib'
-@import url(http://fonts.googleapis.com/css?family=Open+Sans);
 @import url(http://fonts.googleapis.com/css?family=Merriweather);
 
 a, a:link
@@ -19,13 +18,13 @@ html {
   position: relative;
   min-height: 100%;
 }
-body {
+body, h2, h3{
   /* Margin bottom by footer height */
   margin-bottom: 60px;
   font-family: "Merriweather", serif;
 }
 body h1 {
-  font-family: "Open Sans", sans serif;
+  font-family: "open sans", sans serif;
   font-weight: 700;
   font-size: 5rem;
 }
@@ -52,4 +51,12 @@ body h1 {
   margin: 20px 0;
 }
 
+a.title, a.title: hover, a.title:active {
+  color: #000;
+  text-decoration: none; 
+}
+
+.subtitle {
+  font-weight: 300;
+}
 

@@ -35,6 +35,7 @@
 
 	<!-- Styles -->
 	<%- @getBlock('styles').add(@site.styles).toHTML() %>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,300' rel='stylesheet' type='text/css'>
   </head>
 
   <body>
@@ -42,7 +43,7 @@
     <!-- Begin page content -->
     <div class="container">
       <div class="page-header">
-        <h1><a href='/'>Good Engine</a> : <span class='text-muted'><%= if @document.title == 'Home' then '' else @document.title %></span></h1>
+        <h1 class="title"><a href='/'>Good Engine</a> : <span class='text-muted subtitle'><%= if @document.title == 'Home' then '' else @document.title %></span></h1>
       </div>
       <!-- Content -->
       <div class="container">

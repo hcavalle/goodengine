@@ -7,7 +7,7 @@ pageOrder: 1
 ```
 
 ##We have two overarching categories of service: 
-### strategy and implemenatation services. 
+### strategy and implementation services. 
 
 Strategic Insight Services
 ---
