@@ -1,8 +1,8 @@
-
 ```
 title: our clients
 layout: sticky_footer
 tags: ['clients','page']
+class: clients
 pageOrder: 3
 ```
 

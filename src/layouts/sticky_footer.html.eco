@@ -48,7 +48,7 @@
       <!-- Content -->
       <div class="container">
         <!-- Content -->
-        <section id="content" class=<%= @document.title+"content" %>>
+        <section id="content" class="<%= @document.class + ' content' %>">
           <%- @content %>
         </section>
       </div>

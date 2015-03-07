@@ -3,6 +3,7 @@
 title: services
 layout: sticky_footer
 tags: ['services','page']
+class: services
 pageOrder: 1
 ```
 

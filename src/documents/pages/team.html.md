@@ -2,6 +2,7 @@
 title: team
 layout: sticky_footer
 tags: ['team','page']
+class: team
 pageOrder: 2
 ```
 
