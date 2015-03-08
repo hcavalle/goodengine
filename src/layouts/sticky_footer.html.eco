@@ -58,7 +58,11 @@
       <div class="container">
         <p class="pull-left text-muted">&copy; Good Engine </p>
         <p class="pull-right text-muted">
-        <a href='www.github.com/hcavalle'>github</a> <a href='/pages/services'>services</a> <a href='/pages/team'>team</a> 
+        <a href='/pages/services'>services</a> 
+        <a href='/pages/team'>team</a> 
+        <a href='/pages/clients'>clients</a> 
+        <a href='/pages/beliefs'>beliefs</a> 
+        <a href='www.github.com/hcavalle'>github</a> 
         </p>
       </div>
     </footer>
