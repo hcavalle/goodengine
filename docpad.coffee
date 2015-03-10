@@ -12,12 +12,10 @@ docpadConfig = {
 		# Specify some site properties
 		site:
 			# The production url of our website
-			url: "http://goodengine.heroku.com"
+			url: "http://www.goodengine.co"
 
 			# Here are some old site urls that you would like to redirect from
 			oldUrls: [
-				'www.website.com',
-				'website.herokuapp.com'
 			]
 
 			# The default title of our website
@@ -25,12 +23,12 @@ docpadConfig = {
 
 			# The website description (for SEO)
 			description: """
-				When your website appears in search results in say Google, the text here will be shown underneath your website's title.
+        Good Engine powers social enterprise to do good.
 				"""
 
 			# The website keywords (for SEO) separated by commas
 			keywords: """
-				place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website
+        social enterprise, engineering, social enterprise tech, social enterprise tech, social enterprise IT, social entrepreneurship, it, tech, consulting, consultancy, programming, data science, web development
 				"""
 
 			# The website author's name
@@ -52,6 +50,7 @@ docpadConfig = {
 				"/vendor/twitter-bootstrap/dist/js/bootstrap.min.js"
 				"/scripts/script.js"
 			]
+    
 
 
 
@@ -134,9 +133,29 @@ docpadConfig = {
 					res.redirect(newUrl+req.url, 301)
 				else
 					next()
+    #files
+    filesPaths: [  # default
+      'static'
+      'files'
+      'public'
+    ]
+
+# Environments
+#     # Allows us to set custom configuration for specific environments
+    environments:  # default
+      development:  # default
+        # Always refresh from server
+          maxAge: false  # default
+          checkVersion: process.argv.length >= 2 and /docpad$/.test(process.argv[1])  # default
+          welcome: process.argv.length >= 2 and /docpad$/.test(process.argv[1])  # default
+          prompts: process.argv.length >= 2 and /docpad$/.test(process.argv[1])  # default
+
+          # Listen to port 9005 on the development environment
+          port: 9005  # example
+
+    watchOptions: preferredMethods: ['watchFile','watch']
 }
 
 
 # Export our DocPad Configuration
 module.exports = docpadConfig
-watchOptions: preferredMethods: ['watchFile','watch']
