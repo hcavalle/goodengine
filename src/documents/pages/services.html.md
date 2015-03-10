@@ -7,39 +7,42 @@ class: services
 pageOrder: 1
 ```
 
-Strategy
----
+##Strategy
 
 - Engineering workflow
+
 - Team dynamics
+
 - Engineering and core business integration
+
 - Software development lifecycle
+
 - Agile scrum practices
 
+##Implementation
 
-Implementation
----
-
-**CODE**
+###Code
 
 - Code base audit
-- Service utility developement
+
+- Service utility development
+
 - API development
 
-**DevOps / System Admin**
 
-- linux system admin
-- cloud platform magic (AWS, Heroku, Rackspace)
-+ Continuous integration and deployment
-  - java - maven, jenkins, bash/fabric/ansible
-  - python - docker, fabric, strider
-  - nodejs (npm) - grunt, bower, strider
-  - frontend applications (npm, bower, grunt)
-  - c++ (autoconf / make)
-  - ruby - docker, capistrano
+###DevOps & Admin
 
-**Data pipeline**
+- Linux system admin
 
-- hadoop
+- Cloud platform magic (AWS, Heroku, Rackspace)
+
+- Continuous integration and deployment
+
+
+###Data pipeline
+
+- Hadoop
+
 - Big data streams
-- data visualization via d3.js
+
+- Data visualization via d3.js

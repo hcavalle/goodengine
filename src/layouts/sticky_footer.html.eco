@@ -54,8 +54,8 @@
         <a href='/pages/services'>services</a> 
         <a href='/pages/team'>team</a> 
         <a href='/pages/clients'>clients</a> 
-        <a href='/pages/beliefs'>values</a> 
-        <a href='www.github.com/hcavalle'>github</a> 
+        <a href='/pages/values'>values</a> 
+        <a href='https://www.github.com/hcavalle' target="_blank">github</a> 
         </p>
       </div>
     </footer>
