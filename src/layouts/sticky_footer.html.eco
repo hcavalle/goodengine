@@ -54,8 +54,8 @@
         <p class="pull-left text-muted">&copy; Good Engine </p>
         <p class="pull-right text-muted">
         <a href='/pages/services'>services</a> 
-        <a href='/pages/team'>team</a> 
         <a href='/pages/clients'>clients</a> 
+        <a href='/pages/team'>team</a> 
         <a href='/pages/values'>values</a> 
         <a href='https://www.github.com/hcavalle' target="_blank">github</a> 
         </p>
