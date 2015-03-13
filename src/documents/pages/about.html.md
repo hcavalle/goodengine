@@ -6,10 +6,11 @@ class: about
 pageOrder: 3
 ```
 
-##Values
+##M V V
 
-### Good Engine solves enginering problems for social enterprises. 
-Business and technology will solve present social issues. 
+### **Mission:** Good Engine solves enginering problems for social enterprises. 
+### **Vision:** Business and technology will solve present social issues. 
+### **Values:**
 
 Work is about focus and satisfaction.
 
@@ -22,7 +23,7 @@ Everything we do matters.
 ###Harrison Cavallero
 **Harrison is a full stack engineer** and teaches computer networking and programming @USC in Los Angeles.
 
-He is dedicated to furthering social impact and causes through business, tech and engineering. 
+He is dedicated to effecting social good through business, tech and engineering. 
 
 </br>
 
