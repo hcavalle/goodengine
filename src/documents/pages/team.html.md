@@ -8,7 +8,7 @@ pageOrder: 2
 ###Harrison Cavallero
 **Harrison is a full stack engineer** and teaches computer networking and programming @USC in Los Angeles.
 
-He is dedicated to furthering social impact and causes through business, tech and engineering. 
+He is dedicated to effecting social good through business, tech and engineering. 
 
 </br>
 
