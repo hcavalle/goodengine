@@ -56,7 +56,8 @@
         <a href='/pages/services'>services</a> 
         <a href='/pages/ourwork'>work</a> 
         <a href='/pages/about'>about</a> 
-        <a href='https://www.github.com/hcavalle' target="_blank">github</a> 
+        <a href='/pages/contact'>contact</a> 
+        <!--<a href='https://www.github.com/hcavalle' target="_blank">github</a> -->
         </p>
       </div>
     </footer>
