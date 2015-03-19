@@ -38,7 +38,7 @@
     <!-- Begin page content -->
     <div class="container">
       <div class="page-header">
-        <h1 class="title"><a href='/'>Good Engine</a> : <span class='text-muted subtitle'><%= if @document.title == 'Home' then '' else @document.title %></span></h1>
+        <h1 class="logo"><a href='/'>Good <span class="title-span">engine</span></a> : <span class='text-muted subtitle'><%= if @document.title == 'Home' then '' else @document.title %></span></h1>
       </div>
       <!-- Content -->
       <div class="container">
@@ -51,7 +51,7 @@
 
     <footer class="footer">
       <div class="container">
-        <p class="pull-left text-muted">&copy; Good Engine </p>
+        <p class="logo pull-left text-muted">&copy; Good engine </p>
         <p class="pull-right text-muted">
         <a href='/pages/services'>services</a> 
         <a href='/pages/ourwork'>work</a> 
