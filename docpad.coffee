@@ -105,6 +105,22 @@ docpadConfig = {
 				}
 			]
 
+#    formmail:
+#      path: '/contact',
+#      redirect: '/thanks',
+#      transport:
+#        service: 'Gmail',
+#        auth:
+#          user: 'noreply@example.com',
+#          pass: 'password'
+#      to: 'enquiries@example.com',
+#      captcha:
+#        image: '/captcha',
+#        redirect: '/tryagain',
+#        options:
+#          height: 150,
+#          width: 300
+
 
 	# =================================
 	# DocPad Events

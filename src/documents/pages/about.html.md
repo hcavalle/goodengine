@@ -8,7 +8,7 @@ pageOrder: 3
 
 ##M V V
 
-### **Mission:** Good Engine solves enginering problems for social enterprises. 
+### **Mission:** Good Engine solves tech and enginering problems for social enterprise. 
 ### **Vision:** Business and technology will solve present social issues. 
 ### **Values:**
 

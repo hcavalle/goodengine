@@ -6,6 +6,7 @@ class: clients
 pageOrder: 3
 ```
 
+##Client Work
 ###<a href='http://www.spins.com' target="_blank">SPINS</a>
 
 
@@ -23,4 +24,9 @@ pageOrder: 3
 
 ###<a href='http://www.crowdfunder.com' target="_blank">Crowdfunder</a>
 
+##Open Source Projects
+models of impact
 
+ciclavia
+
+nprank

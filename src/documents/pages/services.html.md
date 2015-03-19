@@ -7,42 +7,32 @@ class: services
 pageOrder: 1
 ```
 
-##Strategy
+###Give us your tech and engineering problems.
+We strategize.
 
-- Engineering workflow
+We build. 
 
-- Team dynamics
+We hack.
 
-- Engineering and core business integration
+We audit and optimize.
 
-- Software development lifecycle
+###Here are our core offerings to our partners potential partners:
+- Engineering Management & Integration
 
-- Agile scrum practices
+- DevOps & Systems
 
-##Implementation
+- Codebase Audit
 
-###Code
+- API & System utility development
 
-- Code base audit
+- Data Pipeline & Visualization
 
-- Service utility development
+- Hardware hacking
 
-- API development
+- Network design
 
+- *Partnered Engineering 
 
-###DevOps & Admin
+We are open to hearing about tech related problem you're facing. Worst case, we will try and connect you with someone better equipped to handle it than we are. 
 
-- Linux system admin
-
-- Cloud platform magic (AWS, Heroku, Rackspace)
-
-- Continuous integration and deployment
-
-
-###Data pipeline
-
-- Hadoop
-
-- Big data streams
-
-- Data visualization via d3.js
+*Partnered Engineering is an intensive free-er form engagement with one of our partners. It's like having one of us on your team for a bit.
