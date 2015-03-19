@@ -19,11 +19,11 @@ docpadConfig = {
 			]
 
 			# The default title of our website
-			title: "Good Engine"
+			title: "Good engine"
 
 			# The website description (for SEO)
 			description: """
-        Good Engine powers social enterprise to do good.
+        Good engine powers social enterprise to do good.
 				"""
 
 			# The website keywords (for SEO) separated by commas

@@ -8,15 +8,9 @@ pageOrder: 1
 ```
 
 ###Give us your tech and engineering problems.
-We strategize.
+We strategize. We build. We hack. We audit and optimize.
 
-We build. 
-
-We hack.
-
-We audit and optimize.
-
-###Here are our core offerings to our partners potential partners:
+###Our core competencies:
 - Engineering Management & Integration
 
 - DevOps & Systems
@@ -27,12 +21,10 @@ We audit and optimize.
 
 - Data Pipeline & Visualization
 
-- Hardware hacking
-
-- Network design
-
 - *Partnered Engineering 
 
+<br>
+<!--
 We are open to hearing about tech related problem you're facing. Worst case, we will try and connect you with someone better equipped to handle it than we are. 
-
-*Partnered Engineering is an intensive free-er form engagement with one of our partners. It's like having one of us on your team for a bit.
+-->
+*Partnered Engineering is an intensive engagement. It's like having us on your team for a bit.

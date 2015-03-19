@@ -6,12 +6,15 @@ class: contact
 pageOrder: 4
 ```
 
-###E: inquiry (a) goodenting.co
-###P: 555 555 5555
-###M: 510 S Hewitt Street Unit 411 LA CA 90013
+## Get in touch
+**E:** <a href="mailto:inquiry@goodengine.co">inquiry@goodengine.co</a>
 
-###Proposal form
+**P:** 213 534 8481
 
-form for proposals to go here.
+**M:** 510 S Hewitt Street Unit 411 LA CA 90013
 
+###Work with us
+
+If you have been referred to us, give us a call. <!-- or fill out the form. Otherwise, fill out the form please.
+-->
 
