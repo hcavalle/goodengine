@@ -8,7 +8,7 @@ pageOrder: 1
 ```
 
 ###Give us your tech and engineering problems.
-We strategize. We build. We hack. We audit and optimize.
+We strategize. We build. We hack. We audit and optimize. All for social enterprise.
 
 ###Our core competencies:
 - Engineering Management & Integration
