@@ -21,9 +21,7 @@ Work is about focus and satisfaction. Fewer is more. Everything we do matters.
 ---
 
 ###Harrison Cavallero
-**Harrison is a full stack engineer** and teaches computer networking and programming @USC in Los Angeles.
-
-He is dedicated to effecting social good through business, tech and engineering. 
+**Harrison is a full stack engineer** and is dedicated to effecting social good through business, tech and engineering. He also teaches computer networking and programming @USC in Los Angeles.
 
 </br>
 
