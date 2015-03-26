@@ -15,6 +15,8 @@ pageOrder: 4
 
 ###Work with us
 
-If you have been referred to us, give us a call. <!-- or fill out the form. Otherwise, fill out the form please.
--->
+If you have been referred, give us a call or shoot us an email. 
+
+<!-- or fill out the form. Otherwise, fill out the form please. -->
+
 

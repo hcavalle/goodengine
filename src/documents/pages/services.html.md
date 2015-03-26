@@ -7,8 +7,6 @@ class: services
 pageOrder: 1
 ```
 
-###Give us your tech and engineering problems.
-We strategize. We build. We hack. We audit and optimize. All for social enterprise.
 
 ###Our core competencies:
 - Engineering Management & Integration
@@ -24,7 +22,5 @@ We strategize. We build. We hack. We audit and optimize. All for social enterpri
 - *Partnered Engineering 
 
 <br>
-<!--
-We are open to hearing about tech related problem you're facing. Worst case, we will try and connect you with someone better equipped to handle it than we are. 
--->
+
 *Partnered Engineering is an intensive engagement. It's like having us on your team for a bit.

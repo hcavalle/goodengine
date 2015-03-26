@@ -7,12 +7,11 @@ pageOrder: 3
 ```
 
 ###Mission 
-Good Engine solves tech and enginering problems for social enterprise. 
+Good Engine engineers impact driving software to make people and planet happier. 
 ###Vision 
-Business and technology will solve present social issues. 
+Business and technology can meaningfully improve quality of life. 
 ###Values
-
-Work is about focus and satisfaction. Fewer is more. Everything we do matters.
+Fewer is more. Everything we do matters. People come first.
 
 <br>
 
@@ -21,8 +20,9 @@ Work is about focus and satisfaction. Fewer is more. Everything we do matters.
 ---
 
 ###Harrison Cavallero
-**Harrison is a full stack engineer** and is dedicated to effecting social good through business, tech and engineering. He also teaches computer networking and programming @USC in Los Angeles.
+**I am a software and tech generalist**, from desktop support to systems admin and web development to hadoop I've seen and done it. I am dedicated to effecting social good through business, tech and engineering. My past work at SPINS.com, Destinilocators.com and Crowdfunder.com and in Higher Ed at UCLA and USC speaks to that commitment. At USC in Los Angeles, he also teaches computer networking and programming as part of Viterbi ITP.
 
+Tasty food, playing a bit of soccer, walking my pup Zoe and leisurely breakfast with my lovely wife are a few of my favorite things.
 </br>
 
 We draw on our personal and professional networks on a per project basis.
