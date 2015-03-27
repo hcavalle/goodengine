@@ -1,11 +1,12 @@
 ```
-title: about us
+title: about
 layout: sticky_footer
 tags: ['about','page']
 class: about
 pageOrder: 3
 ```
-##M V V
+##Mission vision values
+
 
 **Mission** 
 Good Engine engineers impact driving technology to make people and planet happier. 

@@ -19,7 +19,7 @@ pageOrder: 1
 
 - Data Pipeline & Visualization
 
-- *Partnered Engineering 
+- Partnered Engineering*
 
 <br>
 
