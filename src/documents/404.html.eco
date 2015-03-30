@@ -1,5 +1,5 @@
 ---
-layout: 'default'
+layout: 'sticky_footer'
 title: '404 Not Found'
 dynamic: true
 ---

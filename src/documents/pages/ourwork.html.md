@@ -6,7 +6,7 @@ class: clients
 pageOrder: 3
 ```
 
-##Client work
+###Client work
 <a href='http://www.spins.com' target="_blank">SPINS</a>
 
 <a href='http://www.destinilocators.com' target="_blank">destini</a>
@@ -23,7 +23,7 @@ pageOrder: 3
 
 <a href='http://www.crowdfunder.com' target="_blank">Crowdfunder</a>
 
-##Open source projects
+###Open source projects
 Coming soon to a git repo near you...
 
 <!-- 

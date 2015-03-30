@@ -38,7 +38,7 @@
     <!-- Begin page content -->
     <div class="container">
       <div class="page-header">
-        <h1 class="logo"><a href='/'>Good <span class="title-span">engine</span></a> : <span class='text-muted subtitle'><%= if @document.title == 'Home' then '' else @document.title %></span></h1>
+        <h1 class="logo"><a href='/'>Good <span class="title-span">engine</span></a>: <span class='text-muted subtitle'><%= if @document.title == 'Home' then '' else @document.title %></span></h1>
       </div>
       <!-- Content -->
       <div class="container">
