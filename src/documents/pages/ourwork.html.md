@@ -1,5 +1,5 @@
 ```
-title: our work
+title: work
 layout: sticky_footer
 tags: ['clients','page']
 class: clients

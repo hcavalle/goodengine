@@ -8,7 +8,7 @@ pageOrder: 1
 ```
 
 
-###Our core competencies
+###Core competencies
 - Engineering Management & Integration
 
 - DevOps & Systems
